@@ -1,2 +1,2 @@
-# MPC-Deom
+# MPC-Demo
 MPC Ethereum Wallet Demo
